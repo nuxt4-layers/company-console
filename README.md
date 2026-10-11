@@ -1,1 +1,1 @@
-# company-console
+# @nuxt4-layers/company-console
